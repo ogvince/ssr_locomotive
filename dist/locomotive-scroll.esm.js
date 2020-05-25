@@ -1,3 +1,4 @@
+  if (typeof document !== 'undefined') {
 /* locomotive-scroll v3.4.4 | MIT License | https://github.com/locomotivemtl/locomotive-scroll */
 function _classCallCheck(instance, Constructor) {
   if (!(instance instanceof Constructor)) {
@@ -2591,5 +2592,7 @@ var _default$3 = /*#__PURE__*/function () {
 
   return _default;
 }();
+
+}
 
 export default _default$3;
